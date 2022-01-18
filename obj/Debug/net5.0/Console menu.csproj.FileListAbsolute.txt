@@ -1,0 +1,37 @@
+C:\Users\FiercePC\Desktop\Console menu\bin\Debug\net5.0\Console menu.exe
+C:\Users\FiercePC\Desktop\Console menu\bin\Debug\net5.0\Console menu.deps.json
+C:\Users\FiercePC\Desktop\Console menu\bin\Debug\net5.0\Console menu.runtimeconfig.json
+C:\Users\FiercePC\Desktop\Console menu\bin\Debug\net5.0\Console menu.runtimeconfig.dev.json
+C:\Users\FiercePC\Desktop\Console menu\bin\Debug\net5.0\Console menu.dll
+C:\Users\FiercePC\Desktop\Console menu\bin\Debug\net5.0\ref\Console menu.dll
+C:\Users\FiercePC\Desktop\Console menu\bin\Debug\net5.0\Console menu.pdb
+C:\Users\FiercePC\Desktop\Console menu\obj\Debug\net5.0\Console menu.csprojAssemblyReference.cache
+C:\Users\FiercePC\Desktop\Console menu\obj\Debug\net5.0\Console menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\Desktop\Console menu\obj\Debug\net5.0\Console menu.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\Console menu\obj\Debug\net5.0\Console menu.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\Console menu\obj\Debug\net5.0\Console menu.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\Console menu\obj\Debug\net5.0\Console menu.dll
+C:\Users\FiercePC\Desktop\Console menu\obj\Debug\net5.0\ref\Console menu.dll
+C:\Users\FiercePC\Desktop\Console menu\obj\Debug\net5.0\Console menu.pdb
+C:\Users\FiercePC\Desktop\Console menu\obj\Debug\net5.0\Console menu.genruntimeconfig.cache
+C:\Users\FiercePC\Desktop\Console menu\bin\Debug\net5.0\GeoJSON.Net.dll
+C:\Users\FiercePC\Desktop\Console menu\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\FiercePC\Desktop\Console menu\obj\Debug\net5.0\Console menu.csproj.CopyComplete
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\bin\Debug\net5.0\Console menu.exe
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\bin\Debug\net5.0\Console menu.deps.json
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\bin\Debug\net5.0\Console menu.runtimeconfig.json
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\bin\Debug\net5.0\Console menu.runtimeconfig.dev.json
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\bin\Debug\net5.0\Console menu.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\bin\Debug\net5.0\ref\Console menu.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\bin\Debug\net5.0\Console menu.pdb
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\bin\Debug\net5.0\GeoJSON.Net.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\obj\Debug\net5.0\Console menu.csproj.AssemblyReference.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\obj\Debug\net5.0\Console menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\obj\Debug\net5.0\Console menu.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\obj\Debug\net5.0\Console menu.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\obj\Debug\net5.0\Console menu.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\obj\Debug\net5.0\Console menu.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\obj\Debug\net5.0\ref\Console menu.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\obj\Debug\net5.0\Console menu.pdb
+C:\Users\FiercePC\Desktop\Code\C# Projects\Console menu (hangman)\obj\Debug\net5.0\Console menu.genruntimeconfig.cache
